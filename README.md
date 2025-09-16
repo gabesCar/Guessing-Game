@@ -1,2 +1,2 @@
-# Practical-Exercise
-Create a program that receives the name, age and salary of the user and shows
+# Guessing Game
+Program with the goal of a guessing game made in C#
